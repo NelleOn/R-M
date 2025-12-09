@@ -29,5 +29,7 @@ resten av nettsiden
 >>>>>>> 8c6967da0b75b03baed5206f5c5beaaede25ea47.
 *av Helle
 
->I dag vi har jobbet lit om design av nettside og ekstra funksjon som skal kobles til database. 
-Nell- Jeg har lagt en database med bruk av postgres med navn restaurangdb. Jeg også beggynte lage tabellene med informasjon inne. 
+>I dag jobbet jeg med grunnarbeidet for restaurantprosjektet vårt. Med hjelp fra en lærer opprettet jeg en container i Docker ved å bruke postgres-databasetypen. Så langt har vi jobbet med datavisualisering og relasjoner mellom det vi kan bruke. Inkludert hva slags data som vil bli satt i oppdatert. Det vi planlegger å ha, er en kolonne for selve restauranten, hvor vi vil koble til annen informasjon, for eksempel: bestilling, åpningstider, muligens meny.
+Tabellenes formål er å organisere data slik at nettsiden og det kommende bookingsystemet kan hente og håndtere informasjon effektivt.*av Nell 
+
+Jeg har holdt på med et tesidn for hvordan det skal se ut for ansatte/ elever på R&M i figma, vi skal snakke med Nina om hva hun tenker og om hun har no mer eller mindre vi skal ta med eller bort. *av Helle
