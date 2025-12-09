@@ -29,4 +29,5 @@ resten av nettsiden
 >>>>>>> 8c6967da0b75b03baed5206f5c5beaaede25ea47.
 *av Helle
 
->
+>I dag vi har jobbet lit om design av nettside og ekstra funksjon som skal kobles til database. 
+Nell- Jeg har lagt en database med bruk av postgres med navn restaurangdb. Jeg også beggynte lage tabellene med informasjon inne. 
